@@ -1,0 +1,14 @@
+c:\users\s.saiteja\documents\visual studio 2010\Projects\express_love_in_diff_lang's\express_love_in_diff_lang's\Bin\Debug\ApplicationIcon.png
+c:\users\s.saiteja\documents\visual studio 2010\Projects\express_love_in_diff_lang's\express_love_in_diff_lang's\Bin\Debug\Background.png
+c:\users\s.saiteja\documents\visual studio 2010\Projects\express_love_in_diff_lang's\express_love_in_diff_lang's\Bin\Debug\express_love_in_diff_lang's.dll
+c:\users\s.saiteja\documents\visual studio 2010\Projects\express_love_in_diff_lang's\express_love_in_diff_lang's\Bin\Debug\express_love_in_diff_lang's.pdb
+c:\users\s.saiteja\documents\visual studio 2010\Projects\express_love_in_diff_lang's\express_love_in_diff_lang's\Bin\Debug\AppManifest.xaml
+c:\users\s.saiteja\documents\visual studio 2010\Projects\express_love_in_diff_lang's\express_love_in_diff_lang's\Bin\Debug\express_love_in_diff_lang_s.xap
+c:\users\s.saiteja\documents\visual studio 2010\Projects\express_love_in_diff_lang's\express_love_in_diff_lang's\obj\Debug\ResolveAssemblyReference.cache
+c:\users\s.saiteja\documents\visual studio 2010\Projects\express_love_in_diff_lang's\express_love_in_diff_lang's\obj\Debug\App.g.i.cs
+c:\users\s.saiteja\documents\visual studio 2010\Projects\express_love_in_diff_lang's\express_love_in_diff_lang's\obj\Debug\MainPage.g.i.cs
+c:\users\s.saiteja\documents\visual studio 2010\Projects\express_love_in_diff_lang's\express_love_in_diff_lang's\obj\Debug\express_love_in_diff_lang's.g.resources
+c:\users\s.saiteja\documents\visual studio 2010\Projects\express_love_in_diff_lang's\express_love_in_diff_lang's\obj\Debug\express_love_in_diff_lang's.dll
+c:\users\s.saiteja\documents\visual studio 2010\Projects\express_love_in_diff_lang's\express_love_in_diff_lang's\obj\Debug\express_love_in_diff_lang's.pdb
+c:\users\s.saiteja\documents\visual studio 2010\Projects\express_love_in_diff_lang's\express_love_in_diff_lang's\obj\Debug\XapCacheFile.xml
+c:\users\s.saiteja\documents\visual studio 2010\Projects\express_love_in_diff_lang's\express_love_in_diff_lang's\obj\Debug\Page1.g.i.cs
